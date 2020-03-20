@@ -211,6 +211,7 @@ const static   boost::uuids::uuid CRYPTONOTE_NETWORK         =
 const char* const SEED_NODES[] = {
     "144.91.113.223:19815", // COVID-19 CORONAVIRUS Research and Development Crypto Currency
 	"167.86.113.15:19815", // CHAOS at COSTCO
+		"173.212.224.208:19815", // I did it for the Toilet Paper          
   
 };
 } 
